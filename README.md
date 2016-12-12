@@ -8,4 +8,4 @@ To compile a program run linux
 
 Example:
 
-`g++ constants/src/constant_expressions.cpp -o constants/build/constant_expressions -std=gnu++11'
+`g++ constants/src/constant_expressions.cpp -o constants/build/constant_expressions -std=gnu++11`
